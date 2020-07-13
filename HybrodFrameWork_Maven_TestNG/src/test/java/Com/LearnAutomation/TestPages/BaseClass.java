@@ -16,7 +16,7 @@ public class BaseClass {
 	public ExcelDataProvider excel;
 	public ConfigurationDataProvider config;
 	
-	
+	// before suite is nothing 
 	@BeforeSuite
 	
 	public void setupsuite()
